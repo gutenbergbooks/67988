@@ -13,7 +13,7 @@ Title: The Vortex
 
 Author: Noel Coward
 
-Release Date: May 10, 2022 [eBook #67988]
+Release Date: May 4, 2022 [eBook #67988]
 
 Language: English
 
@@ -7004,7 +7004,7 @@ FLORENCE
 
 I know----
 
-NICKY
+Nicky
 
 [_Desperately_]
 
